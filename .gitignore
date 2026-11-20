@@ -1,0 +1,13 @@
+# Build output
+*.o
+*.elf
+*.hex
+*.map
+*.lst
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
